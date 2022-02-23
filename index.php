@@ -31,7 +31,7 @@
     <head>
         <meta charset = "UFT-8">
         <meta name="viewport" content="width=device-width">
-        <title>IP Changed Checker</title>
+        <title>IP Checker</title>
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="shortcut icon" href="icon/favicon.ico">
         <link rel="apple-touch-icon" href="icon/ipchk_icon_ios.png" sizes="180x180">
@@ -43,7 +43,7 @@
         echo '<meta property="og:url" content="http://'.$HOST.'/" />'."\n";
         echo '<meta property="og:image" content="http://'.$HOST.'/icon/ipchk_icon.png" />'."\n";
         ?>
-        <meta property="og:title" content="IP Changed Checker" />
+        <meta property="og:title" content="IP Checker" />
         <meta property="og:description" content="ipアドレスやhostの確認、IPが変更されているかを判定します。" />
         <!---->
 
@@ -67,7 +67,7 @@
     </head>
     <body>
         <nav class="navbar navbar-expand navbar-dark bg-dark static-top">
-            <a class="navbar-brand mr-1" href="/">IP Changed Checker</a>
+            <a class="navbar-brand mr-1" href="/">IP Checker</a>
         </nav>
         <?php
         if ($_GET['ip']&&$ip==$get_ip) $status="変更されていません<br>";
