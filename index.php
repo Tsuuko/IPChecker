@@ -87,7 +87,7 @@
                 <br>
                 <hr>
                 <p class="footer_text">Twitter : <a href="https://twitter.com/_Tsuuko_">@_Tsuuko_</a><br>
-                <a href="https://github.com/Tsuuko4512/ipchk">github.com/Tsuuko4512/ipchk</p>
+                <a href="https://github.com/Tsuuko/IPChecker">github.com/Tsuuko/IPChecker</p>
             </footer>
         </div>
     </body>
