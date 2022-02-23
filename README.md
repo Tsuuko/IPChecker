@@ -6,10 +6,7 @@ The interface is in Japanese.
 
 No logging.
 
-- http://sururun2.starfree.jp/
-- http://sururun2.starfree.jp/ipchk.php
-
-(hosted by starserver free)
+- https://ip.tsuuko.dev/
 
 ## Feature
 - View IP address and HOST.
