@@ -47,6 +47,18 @@
         <meta property="og:description" content="ipアドレスやhostの確認、IPが変更されているかを判定します。" />
         <!---->
 
+        <!-- JSON-LD構造化データ -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "IP Checker",
+            "url": "https://ip.tsuuko.dev",
+            "description": "ipアドレスやhostの確認、IPが変更されているかを判定します。"
+        }
+        </script>
+        <!---->
+
         <style type="text/css">
         .main_text_m{
             font-size:calc(18px + 0.5vw);
